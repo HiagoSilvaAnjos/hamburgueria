@@ -189,7 +189,7 @@ checkoutButton.addEventListener("click", () => {
 
     // Enviar pedido para API do whats
     const cartItems = cart.map(item => {
-        return `Pedido: ${item.name} Quantidade: (${item.quantity}) Preço: ${item.price}.\n\n`
+        return `Pedido: ${item.name} \nQuantidade: (${item.quantity}) \nPreço: ${item.price}.\n\n`
     }).join("");
 
     const message = encodeURIComponent(cartItems);
