@@ -193,7 +193,7 @@ checkoutButton.addEventListener("click", () => {
     }).join("");
 
     const message = encodeURIComponent(cartItems);
-    const phone = "91992755065"
+    const phone = "999999999"
 
     Toastify({
         text: "Pedido feito com Sucesso!",
