@@ -1,6 +1,6 @@
 # Hamburgueria Online
 
-Este é um site de hamburgueria online, desenvolvido com React, Vite e TypeScript. O objetivo do site é servir como um cardápio interativo onde os clientes podem escolher seus pedidos e realizar compras diretamente.
+Este é um site de hamburgueria online, desenvolvido com HTML, CSS, JavaScript e Tailwind CSS. O objetivo do site é servir como um cardápio interativo onde os clientes podem escolher seus pedidos e realizar compras diretamente.
 
 ![alt text](/assets/images/image.png)
 
@@ -16,6 +16,7 @@ Este é um site de hamburgueria online, desenvolvido com React, Vite e TypeScrip
 
 ## Tecnologias Utilizadas
 
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **Vite**: Ferramenta de build que oferece um ambiente de desenvolvimento rápido.
-- **TypeScript**: Superset de JavaScript que adiciona tipagem estática ao código.
+- **HTML**: Linguagem de marcação para estruturar o conteúdo.
+- **CSS**: Linguagem de estilos para estilizar o site.
+- **JavaScript**: Linguagem de programação para funcionalidades interativas.
+- **Tailwind CSS**: Framework CSS para estilização rápida e responsiva.
